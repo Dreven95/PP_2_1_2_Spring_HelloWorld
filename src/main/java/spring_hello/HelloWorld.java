@@ -1,3 +1,5 @@
+package spring_hello;
+
 public class HelloWorld {
  
     private String message;
